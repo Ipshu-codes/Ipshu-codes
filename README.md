@@ -13,7 +13,7 @@
 I'm a Computer Engineering student passionate about building practical and impactful solutions through code. I enjoy turning ideas into real projects, learning new technologies, and continuously improving my development skills.
 
 * 🔭 **Currently Working On:** Hiking Route Finder & Mapping Projects
-* 🌱 **Currently Learning:** Web Development, APIs, Git, and Open Source Collaboration
+*🌱 Currently Learning: Node.js, Express.js, REST APIs, Git, and Open Source Collaboration
 * 🤝 **Looking to Collaborate On:** Beginner-friendly open source and web development projects
 * 💬 **Ask Me About:** Python, HTML, CSS, JavaScript, Git, and engineering studies
 * ⚡ **Fun Fact:** When I'm not coding, you'll probably find me crocheting, hiking, or listening to indie music
@@ -35,6 +35,8 @@ I'm a Computer Engineering student passionate about building practical and impac
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
 </p>
 
 ### 🧰 Tools & Platforms
@@ -50,12 +52,11 @@ I'm a Computer Engineering student passionate about building practical and impac
 
 ## 🚀 Featured Projects
 
-| Project                 | Description                                                         | Tech Stack            |
-| ----------------------- | ------------------------------------------------------------------- | --------------------- |
-| 🥾 Hiking Route Finder  | Web app to explore hiking routes around Kathmandu and nearby areas. | HTML, CSS, JavaScript |
-| 📍 Hiking Route API     | REST API providing hiking routes, distances, and elevation data.    | Python                |
-| 💻 Programming Practice | Collection of academic Python and C++ projects and problem solving. | Python, C++           |
-
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🥾 **Hiking Route Finder** | Interactive web application for exploring hiking routes around Kathmandu with route visualization, estimated hiking time, distance, and difficulty levels. | HTML, CSS, JavaScript, Leaflet |
+| 📍 **Hiking Route API** | REST API that serves hiking trail data, including routes, elevations, distances, estimated hiking times, and points of interest. | Node.js, Express.js |
+| 💻 **Programming Practice** | Collection of academic projects and programming exercises showcasing problem-solving skills and core programming concepts. | Python, C, C++ |
 ---
 
 ## 📈 Current Goals
