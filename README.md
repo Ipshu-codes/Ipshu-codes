@@ -1,4 +1,4 @@
-# Hi there, I'm Ipshu 👋
+# Hi there, I'm Ipshu 
 
 ### Computer Engineering Student | Aspiring Web Developer
 
@@ -8,15 +8,15 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 I'm a Computer Engineering student passionate about building practical and impactful solutions through code. I enjoy turning ideas into real projects, learning new technologies, and continuously improving my development skills.
 
-* 🔭 **Currently Working On:** IOE-HUB
-*🌱 **Currently Learning:** Node.js, Express.js, REST APIs, Git, and Open Source Collaboration
-* 🤝 **Looking to Collaborate On:** Beginner-friendly open source and web development projects
-* 💬 **Ask Me About:** Python, HTML, CSS, JavaScript, Git, and engineering studies
-* ⚡ **Fun Fact:** When I'm not coding, you'll probably find me crocheting, hiking, or listening to indie music
+* **Currently Working On:** IOE-HUB
+*  **Currently Learning:** Node.js, Express.js, REST APIs, Git, and Open Source Collaboration
+* **Looking to Collaborate On:** Beginner-friendly open source and web development projects
+* **Ask Me About:** Python, HTML, CSS, JavaScript, Git, and engineering studies
+* **Fun Fact:** When I'm not coding, you'll probably find me crocheting, hiking, or listening to indie music
 
 ---
 
@@ -30,7 +30,7 @@ I'm a Computer Engineering student passionate about building practical and impac
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
-### ⚙️ Backend & Programming
+### Backend & Programming
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -39,7 +39,7 @@ I'm a Computer Engineering student passionate about building practical and impac
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white"/>
@@ -50,16 +50,16 @@ I'm a Computer Engineering student passionate about building practical and impac
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🥾 **Hiking Route Finder** | Interactive web application for exploring hiking routes around Kathmandu with route visualization, estimated hiking time, distance, and difficulty levels. | HTML, CSS, JavaScript, Leaflet |
-| 📍 **Hiking Route API** | REST API that serves hiking trail data, including routes, elevations, distances, estimated hiking times, and points of interest. | Node.js, Express.js |
-| 💻 **Programming Practice** | Collection of academic projects and programming exercises showcasing problem-solving skills and core programming concepts. | Python, C, C++ |
----
+| ------- | ----------- | ---------- |
+| **IOE-HUB** | An open-source platform for IOE students to access semester resources, notes, question papers, and academic materials while contributing through collaborative development. | Node.js, Express.js, HTML, CSS, JavaScript, Git |
+|  **Hiking Route Finder** | Interactive web application for exploring hiking routes around Kathmandu with route visualization, estimated hiking time, distance, and difficulty levels. | HTML, CSS, JavaScript, Leaflet |
+|  **Hiking Route API** | REST API that serves hiking trail data, including routes, elevations, distances, estimated hiking times, and points of interest. | Node.js, Express.js |
+|  **Programming Projects & Algorithms** | Collection of academic projects and programming exercises showcasing problem-solving skills, object-oriented programming, and core programming concepts. | Python, C, C++ |
 
-## 📈 Current Goals
+## Current Goals
 
 * Improve JavaScript and frontend development skills
 * Learn React and modern web frameworks
@@ -69,7 +69,7 @@ I'm a Computer Engineering student passionate about building practical and impac
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ipshu-codes&show_icons=true&theme=tokyonight" width="48%" />
