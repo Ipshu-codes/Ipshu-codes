@@ -12,8 +12,8 @@
 
 I'm a Computer Engineering student passionate about building practical and impactful solutions through code. I enjoy turning ideas into real projects, learning new technologies, and continuously improving my development skills.
 
-* 🔭 **Currently Working On:** Hiking Route Finder & Mapping Projects
-*🌱 Currently Learning: Node.js, Express.js, REST APIs, Git, and Open Source Collaboration
+* 🔭 **Currently Working On:** IOE-HUB
+*🌱 **Currently Learning:** Node.js, Express.js, REST APIs, Git, and Open Source Collaboration
 * 🤝 **Looking to Collaborate On:** Beginner-friendly open source and web development projects
 * 💬 **Ask Me About:** Python, HTML, CSS, JavaScript, Git, and engineering studies
 * ⚡ **Fun Fact:** When I'm not coding, you'll probably find me crocheting, hiking, or listening to indie music
